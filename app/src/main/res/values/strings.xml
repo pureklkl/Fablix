@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fablix</string>
+    <string name="edit_message">Movie Name</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="please_connect_to_internet">Network not available, please connect to internet</string>
+    <string name="no_title">Please enter a movie name</string>
+    <string name="no_movie">We don\'t find any movie...</string>
+    <string name="fablix_Url">https://10.8.16.130:8443/project3</string>
+    <string name="fablix_searchUrl">/search</string>
+    <string name="fablix_singleMovieUrl">/singlemovie</string>
+    <string name="fablix_singleStarUrl">/singlestar</string>
+    <string name="backPage">Prev</string>
+    <string name="nextPage">Next</string>
+</resources>
